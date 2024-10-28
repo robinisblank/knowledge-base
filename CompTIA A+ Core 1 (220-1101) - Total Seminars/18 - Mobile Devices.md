@@ -23,7 +23,7 @@
 - Airplane mode turns off anything that makes radio frequencies (e.g., 802.11, NFC, and Bluetooth).
 
 ## Touring Android
-No notes needed.
+- No notes needed.
 
 ## Virtual Reality
 - Virtual Reality (VR) is a complete virtualized environment.

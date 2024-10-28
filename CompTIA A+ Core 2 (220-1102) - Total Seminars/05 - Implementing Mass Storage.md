@@ -97,9 +97,25 @@
 - The partitioning and formatting tools in installation programs provide a smaller subset of tools compared to their main tools.
 - Installation tools may provide features not normally seen (such as swap file creation).
 
-## [Software RAID in Storage Spaces](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/09%20-%20Implementing%20Mass%20Storage.md#Software%20RAID%20in%20Storage%20Spaces)
+## Software RAID in Storage Spaces
+- Same lecture as in [/CompTIA A+ Core 1 (220-1101) - Total Seminars/09 - Implementing Mass Storage](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/09%20-%20Implementing%20Mass%20Storage.md)
+- Software RAID uses the OS to configure the RAID array.
+- Windows comes with a powerful tool called Storage Spaces to configure advanced software RAID arrays.
+- Just a Bunch of Disks (JBOD) is a collection of disks that acts as a single drive that doesn't act as RAID.
+- Simple refers to JBOD.
+- Three-way mirror is Microsoft's proprietary RAID. Traditionally, using drives with different capacities caused wastage, but this doesn't happen with three-way mirrors.
+- Software RAID is free but doesn't have a dedicated controller; it is controlled by the OS and the CPU. It's not a problem with high-end CPUs, but slows your system with lower ones.
+- Hardware RAID is costly but it has high efficiency and many features.
 
-## [Encrypting Mass Storage](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/09%20-%20Implementing%20Mass%20Storage.md#Encrypting%20Mass%20Storage)
+## Encrypting Mass Storage
+- Same lecture as in [/CompTIA A+ Core 1 (220-1101) - Total Seminars/09 - Implementing Mass Storage](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/09%20-%20Implementing%20Mass%20Storage.md)
+- Encryption is used to protect data from unauthorized access.
+- File-based encryption encrypts files and folders.
+- Disk-based encryption encrypts entire drives.
+- Windows uses Encrypted File System (EFS) to encrypt folders and files on New Technology File System (NTFS) formatted drives.
+- Windows uses BitLocker to encrypt entire drives.
+- BitLocker requires a system with a Trusted Platform Module (TPM) chip.
+- BitLocker To Go is an extension of BitLocker that provides encryption for removable storage devices.
 
 ## Maintaining Storage Disks
 - Error checking and optimization help maintain the health and performance of storage devices. You will find both these options under the Tools tab in the disk's properties.
