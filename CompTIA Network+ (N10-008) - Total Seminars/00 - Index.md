@@ -1,22 +1,22 @@
 # CompTIA Network+ (N10-008) - Total Seminars - Index
-- [[01 - Network Models]]
-- [[02 - Cabling and Topology]]
-- [[03 - Ethernet Basics]]
-- [[04 - Ethernet Standards]]
-- [[05 - Installing a Physical Network]]
-- [[06 - TCP & IP Basics]]
-- [[07 - Routing]]
-- [[08 - TCP & IP Applications]]
-- [[09 - Network Naming]]
-- [[10 - Securing TCP & IP]]
-- [[11 - Switch Features]]
-- [[12 - IPv6]]
-- [[13 - WAN Connectivity]]
-- [[14 - Wireless Networking]]
-- [[15 - Virtualization and Cloud Computing]]
-- [[16 - Data Centers]]
-- [[17 - Integrating Networked Devices]]
-- [[18 - Network Operations]]
-- [[19 - Protecting Networks]]
-- [[20 - Network Monitoring]]
-- [[21 - Network Troubleshooting]]
+- [01 - Network Models](01%20-%20Network%20Models.md)
+- [02 - Cabling and Topology](02%20-%20Cabling%20and%20Topology.md)
+- [03 - Ethernet Basics](03%20-%20Ethernet%20Basics.md)
+- [04 - Ethernet Standards](04%20-%20Ethernet%20Standards.md)
+- [05 - Installing a Physical Network](05%20-%20Installing%20a%20Physical%20Network.md)
+- [06 - TCP & IP Basics](06%20-%20TCP%20&%20IP%20Basics.md)
+- [07 - Routing](07%20-%20Routing.md)
+- [08 - TCP & IP Applications](08%20-%20TCP%20&%20IP%20Applications.md)
+- [09 - Network Naming](09%20-%20Network%20Naming.md)
+- [10 - Securing TCP & IP](10%20-%20Securing%20TCP%20&%20IP.md)
+- [11 - Switch Features](11%20-%20Switch%20Features.md)
+- [12 - IPv6](12%20-%20IPv6.md)
+- [13 - WAN Connectivity](13%20-%20WAN%20Connectivity.md)
+- [14 - Wireless Networking](14%20-%20Wireless%20Networking.md)
+- [15 - Virtualization and Cloud Computing](15%20-%20Virtualization%20and%20Cloud%20Computing.md)
+- [16 - Data Centers](16%20-%20Data%20Centers.md)
+- [17 - Integrating Networked Devices](17%20-%20Integrating%20Networked%20Devices.md)
+- [18 - Network Operations](18%20-%20Network%20Operations.md)
+- [19 - Protecting Networks](19%20-%20Protecting%20Networks.md)
+- [20 - Network Monitoring](20%20-%20Network%20Monitoring.md)
+- [21 - Network Troubleshooting](21%20-%20Network%20Troubleshooting.md)

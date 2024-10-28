@@ -1,21 +1,21 @@
 # CompTIA A+ Core 2 (220-1102) - Total Seminars - Index
-- [[01 - Safety and Professionalism]]
-- [[02 - The Visible Computer]]
-- [[03 - Power Supplies]]
-- [[04 - Mass Storage Technologies]]
-- [[05 - Implementing Mass Storage]]
-- [[06 - Essential Peripherals]]
-- [[07 - Installing and Upgrading Operating Systems]]
-- [[08 - Working with Operating Systems]]
-- [[09 - Users, Groups, and Permissions]]
-- [[10 - Maintaining and Optimizing Operating Systems]]
-- [[11 - Working with the Command-Line Interface]]
-- [[12 - Troubleshooting Operating Systems]]
-- [[13 - Local Area Networking]]
-- [[14 - Wireless Networking]]
-- [[15 - The Internet]]
-- [[16 - Portable Computing]]
-- [[17 - Mobile Devices]]
-- [[18 - Maintaining and Securing Mobile Devices]]
-- [[19 - Securing Computers]]
-- [[20 - Operational Procedures]]
+- [01 - Safety and Professionalism](01%20-%20Safety%20and%20Professionalism.md)
+- [02 - The Visible Computer](02%20-%20The%20Visible%20Computer.md)
+- [03 - Power Supplies](03%20-%20Power%20Supplies.md)
+- [04 - Mass Storage Technologies](04%20-%20Mass%20Storage%20Technologies.md)
+- [05 - Implementing Mass Storage](05%20-%20Implementing%20Mass%20Storage.md)
+- [06 - Essential Peripherals](06%20-%20Essential%20Peripherals.md)
+- [07 - Installing and Upgrading Operating Systems](07%20-%20Installing%20and%20Upgrading%20Operating%20Systems.md)
+- [08 - Working with Operating Systems](08%20-%20Working%20with%20Operating%20Systems.md)
+- [09 - Users, Groups, and Permissions](09%20-%20Users,%20Groups,%20and%20Permissions.md)
+- [10 - Maintaining and Optimizing Operating Systems](10%20-%20Maintaining%20and%20Optimizing%20Operating%20Systems.md)
+- [11 - Working with the Command-Line Interface](11%20-%20Working%20with%20the%20Command-Line%20Interface.md)
+- [12 - Troubleshooting Operating Systems](12%20-%20Troubleshooting%20Operating%20Systems.md)
+- [13 - Local Area Networking](13%20-%20Local%20Area%20Networking.md)
+- [14 - Wireless Networking](14%20-%20Wireless%20Networking.md)
+- [15 - The Internet](15%20-%20The%20Internet.md)
+- [16 - Portable Computing](16%20-%20Portable%20Computing.md)
+- [17 - Mobile Devices](17%20-%20Mobile%20Devices.md)
+- [18 - Maintaining and Securing Mobile Devices](18%20-%20Maintaining%20and%20Securing%20Mobile%20Devices.md)
+- [19 - Securing Computers](19%20-%20Securing%20Computers.md)
+- [20 - Operational Procedures](20%20-%20Operational%20Procedures.md)

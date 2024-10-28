@@ -97,9 +97,9 @@
 - The partitioning and formatting tools in installation programs provide a smaller subset of tools compared to their main tools.
 - Installation tools may provide features not normally seen (such as swap file creation).
 
-## [Software RAID in Storage Spaces](09%20-%20Implementing%20Mass%20Storage.md#Software%20RAID%20in%20Storage%20Spaces)
+## [Software RAID in Storage Spaces](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/09%20-%20Implementing%20Mass%20Storage.md#Software%20RAID%20in%20Storage%20Spaces)
 
-## [Encrypting Mass Storage](09%20-%20Implementing%20Mass%20Storage.md#Encrypting%20Mass%20Storage)
+## [Encrypting Mass Storage](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/09%20-%20Implementing%20Mass%20Storage.md#Encrypting%20Mass%20Storage)
 
 ## Maintaining Storage Disks
 - Error checking and optimization help maintain the health and performance of storage devices. You will find both these options under the Tools tab in the disk's properties.

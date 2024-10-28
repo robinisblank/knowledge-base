@@ -1,19 +1,19 @@
 # Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali - OccupyTheWeb - Index
 
-- [[01 - Getting Started with the Basics]]
-- [[02 - Text Manipulation]]
-- [[03 - Analyzing and Managing Networks]]
-- [[04 - Adding and Removing Software]]
-- [[05 - Controlling File and Directory Permissions]]
-- [[06 - Process Management]]
-- [[07 - Managing User Environment Variables]]
-- [[08 - Bash Scripting]]
-- [[09 - Compressing and Archiving]]
-- [[10 - Filesystem and Storage Device Management]]
-- [[11 - The Logging System]]
-- [[12 - Using and Abusing Services]]
-- [[13 - Becoming Secure and Anonymous]]
-- [[14 - Understanding and Inspecting Wireless Networks]]
-- [[15 - Managing the Linux Kernel and Loadable Kernel Modules]]
-- [[16 - Automating Tasks with Job Scheduling]]
-- [[17 - Python Scripting Basics for Hackers]]
+- [01 - Getting Started with the Basics](01%20-%20Getting%20Started%20with%20the%20Basics.md)
+- [02 - Text Manipulation](02%20-%20Text%20Manipulation.md)
+- [03 - Analyzing and Managing Networks](03%20-%20Analyzing%20and%20Managing%20Networks.md)
+- [04 - Adding and Removing Software](04%20-%20Adding%20and%20Removing%20Software.md)
+- [05 - Controlling File and Directory Permissions](05%20-%20Controlling%20File%20and%20Directory%20Permissions.md)
+- [06 - Process Management](06%20-%20Process%20Management.md)
+- [07 - Managing User Environment Variables](07%20-%20Managing%20User%20Environment%20Variables.md)
+- [08 - Bash Scripting](08%20-%20Bash%20Scripting.md)
+- [09 - Compressing and Archiving](09%20-%20Compressing%20and%20Archiving.md)
+- [10 - Filesystem and Storage Device Management](10%20-%20Filesystem%20and%20Storage%20Device%20Management.md)
+- [11 - The Logging System](11%20-%20The%20Logging%20System.md)
+- [12 - Using and Abusing Services](12%20-%20Using%20and%20Abusing%20Services.md)
+- [13 - Becoming Secure and Anonymous](13%20-%20Becoming%20Secure%20and%20Anonymous.md)
+- [14 - Understanding and Inspecting Wireless Networks](14%20-%20Understanding%20and%20Inspecting%20Wireless%20Networks.md)
+- [15 - Managing the Linux Kernel and Loadable Kernel Modules](15%20-%20Managing%20the%20Linux%20Kernel%20and%20Loadable%20Kernel%20Modules.md)
+- [16 - Automating Tasks with Job Scheduling](16%20-%20Automating%20Tasks%20with%20Job%20Scheduling.md)
+- [17 - Python Scripting Basics for Hackers](17%20-%20Python%20Scripting%20Basics%20for%20Hackers.md)

@@ -1,21 +1,21 @@
 # CompTIA A+ Core 1 (220-1101) - Total Seminars - Index
-- [[01 - Safety and Professionalism]]
-- [[02 - The Visible Computer]]
-- [[03 - CPUs]]
-- [[04 - RAM]]
-- [[05 - Firmware]]
-- [[06 - Motherboards]]
-- [[07 - Power Supplies]]
-- [[08 - Mass Storage Technologies]]
-- [[09 - Implementing Mass Storage]]
-- [[10 - Essential Peripherals]]
-- [[11 - Display Technologies]]
-- [[12 - Essentials of Networking]]
-- [[13 - Local Area Networking]]
-- [[14 - Wireless Networking]]
-- [[15 - The Internet]]
-- [[16 - Virtualization]]
-- [[17 - Portable Computing]]
-- [[18 - Mobile Devices]]
-- [[19 - Maintaining and Securing Mobile Devices]]
-- [[20 - Printers and Multifunction Devices]]
+- [01 - Safety and Professionalism](01%20-%20Safety%20and%20Professionalism.md)
+- [02 - The Visible Computer](02%20-%20The%20Visible%20Computer.md)
+- [03 - CPUs](03%20-%20CPUs.md)
+- [04 - RAM](04%20-%20RAM.md)
+- [05 - Firmware](05%20-%20Firmware.md)
+- [06 - Motherboards](06%20-%20Motherboards.md)
+- [07 - Power Supplies](07%20-%20Power%20Supplies.md)
+- [08 - Mass Storage Technologies](08%20-%20Mass%20Storage%20Technologies.md)
+- [09 - Implementing Mass Storage](09%20-%20Implementing%20Mass%20Storage.md)
+- [10 - Essential Peripherals](10%20-%20Essential%20Peripherals.md)
+- [11 - Display Technologies](11%20-%20Display%20Technologies.md)
+- [12 - Essentials of Networking](12%20-%20Essentials%20of%20Networking.md)
+- [13 - Local Area Networking](13%20-%20Local%20Area%20Networking.md)
+- [14 - Wireless Networking](14%20-%20Wireless%20Networking.md)
+- [15 - The Internet](15%20-%20The%20Internet.md)
+- [16 - Virtualization](16%20-%20Virtualization.md)
+- [17 - Portable Computing](17%20-%20Portable%20Computing.md)
+- [18 - Mobile Devices](18%20-%20Mobile%20Devices.md)
+- [19 - Maintaining and Securing Mobile Devices](19%20-%20Maintaining%20and%20Securing%20Mobile%20Devices.md)
+- [20 - Printers and Multifunction Devices](20%20-%20Printers%20and%20Multifunction%20Devices.md)

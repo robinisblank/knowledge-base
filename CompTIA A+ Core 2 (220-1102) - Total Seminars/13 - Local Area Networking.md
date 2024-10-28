@@ -37,7 +37,7 @@
 - All gateway routers are NAT-enabled by default.
 - Normally, NAT-enabled routers have a public IP address on their WAN interface and a private IP address on their LAN interface.
 
-## [Dynamic IP Addressing](CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Dynamic%20IP%20Addressing)
+## [Dynamic IP Addressing](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Dynamic%20IP%20Addressing)
 
 ## Working with Connections
 - In Windows, the `netstat` command displays protocol statistics and current TCP/IP network connections.
@@ -46,9 +46,9 @@
 - Windows uses port 445 for file and print sharing over a network.
 - Use TCPView from [Sysinternals](https://learn.microsoft.com/en-in/sysinternals/) by Mark Russinovich to monitor active network connections in real time.
 
-## [Understanding DNS](CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Understanding%20DNS)
+## [Understanding DNS](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Understanding%20DNS)
 
-## [Working with DNS](CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Working%20with%20DNS)
+## [Working with DNS](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Working%20with%20DNS)
 
 ## Windows Naming
 - Windows Naming refers to the way Windows organizes and identifies computers on a network. Each computer is assigned a unique name for identification and communication within a network, whether in a workgroup or a domain.
@@ -104,9 +104,9 @@
 - The `net help` command displays information about a net command.
 - Different versions of Windows often require tweaks to get this command working.
 
-## [Routers](CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Routers)
+## [Routers](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Routers)
 
-## [Basic Router Configuration](CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Basic%20Router%20Configuration)
+## [Basic Router Configuration](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Basic%20Router%20Configuration)
 
 ## Firewall Configuration
 - Firewall is a security device or software designed to monitor and control incoming and outgoing network traffic. It acts as a barrier between trusted internal networks and untrusted external networks, blocking unauthorized access and allowing permitted traffic based on security rules.
@@ -147,4 +147,4 @@
 - Universal Plug and Play (UPnP) enables devices on a network to automatically discover each other and establish connections.
 - Simple Network Management Protocol (SNMP) is a protocol for monitoring and managing devices on IP networks.
 
-## [Virtual LANs (VLANs)](CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Virtual%20LANs%20(VLANs))
+## [Virtual LANs (VLANs)](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Virtual%20LANs%20(VLANs))
