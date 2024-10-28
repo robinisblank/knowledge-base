@@ -1,0 +1,73 @@
+- **Programming Challenges: The Programming Contest Training Manual** by S. S. Skiena and M. A. Revilla
+- **Competitive Programming 3: The New Lower Bound of Programming Contests** by S. Halim and F. Halim
+- **Looking for a Challenge? The Ultimate Problem Set from the University of Warsaw Programming Competitions** by K. Diks
+- **Introduction to Algorithms** by T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein
+- **Algorithm Design** by J. Kleinberg and É. Tardos
+- **The Algorithm Design Manual** by S. S. Skiena
+- **Computers and Intractability: A Guide to the Theory of NP-completeness** by M. R. Garey’s and D. S. Johnson
+- **Programming Pearls** by J. BentleyI also want to create a file in which I will store links of articles that I found useful
+- **C++ Programming Language** by Bjarne Stroustrup
+- **Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching** by Robert Sedgewick
+- **C Traps and Pitfalls** by Andrew Koenig
+- **Data Communications and Networking** by Behrouz A. Forouzan
+- **The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws** by Dafydd Stuttard and Marcus Pinto
+- **Web Application Defender's Cookbook - Battling Hackers and Protecting Users** by RC Barnett
+- **Web Hacking 101** by Peter Yaworski
+- **Real-World Bug Hunting: A Field Guide to Web Hacking** by Peter Yaworski
+- **Mastering Modern Web Penetration Testing** by Prakhar Prasad
+- **The Hacker Playbook: Practical Guide To Penetration Testing** by Peter Kim
+- **The Hacker Playbook 2: Practical Guide To Penetration Testing** by Peter Kim
+- **The Hacker Playbook 3: Practical Guide To Penetration Testing** by Peter Kim
+- **Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali** by OccupyTheWeb
+- **Network Basics for Hackers: How Networks Work and How They Break** by OccupyTheWeb
+- **Getting Started Becoming a Master Hacker: Hacking is the Most Important Skill Set of the 21st Century!** by OccupyTheWeb
+- **The Cyberwarrior Handbook: A Beginner's Guide to Hacking from Recon to Exploitation** by OccupyTheWeb
+- **Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities** by Vickie Li
+- **Hacking APIs: Breaking Web Application Programming Interfaces** by Corey J. Ball
+- **Penetration Testing: A Hands-On Introduction to Hacking** by Georgia Weidman
+- **Hacking: The Art of Exploitation** by Jon Erickson
+- **Metasploit: The Penetration Tester's Guide** by David Kennedy, Jim O'Gorman, Devon Kearns, and Mati Aharoni
+- **Black Hat Python: Python Programming for Hackers and Pentesters** by Justin Seitz and Tim Arnold
+- **Gray Hat Hacking: The Ethical Hacker's Handbook** by Allen Harper, Ryan Linn, Stephen Sims, Michael Baucom, Huascar Tejeda, Daniel Fernandez, and Moses Frost
+- **Social Engineering: The Science of Human Hacking** by Christopher Hadnagy
+- **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software** by Michael Sikorski and Andrew Honig
+- **Practical Binary Analysis** by Dennis Andriesse
+- **Network Security Assessment: Know Your Network** by Chris McNab
+- **Applied Cryptography: Protocols, Algorithms, and Source Code in C** by Bruce Schneier
+- **Hacking: Beginner's Guide to Computer Hacking, Basic Security, Penetration Testing** by John Stark
+- **Hands-On Ethical Hacking and Network Defense** by Rob Wilson, Michael T. Simpson, and Nicholas Antill
+- **The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy** by Patrick Engebretson
+- **Advanced Penetration Testing: Hacking the World's Most Secure Networks** by Wil Allsopp
+- **Guide to Network Defense and Countermeasures** by Dawn Weaver, Dean Farwood, and Randy Weaver
+- **Red Team Field Manual** by Ben Clark
+- **RTFM: Red Team Field Manual v2** by Ben Clark and Nick Downer
+- **Blue Team Field Manual** by Alan White and Ben Clark
+- **PTFM: Purple Team Field Manual** by Tim Bryant
+- **Computer Hacking Beginners Guide: How to Hack Wireless Network, Basic Security and Penetration Testing, Kali Linux, Your First Hack** by Alan T. Norman
+- **This Is How They Tell Me the World Will End: The Cyber Weapons Arms Race** by Nicole Perlroth
+- **Hands on Hacking: Become an Expert at Next Gen Penetration Testing and Purple Teaming** by Matthew Hickey and Jennifer Arcuri
+- **Hacking Connected Cars: Tactics, Techniques, and Procedures** by Alissa Knight
+- **The Car Hacker's Handbook: A Guide for the Penetration Tester** by Craig Smith
+- **Pentester BluePrint: Starting a Career as an Ethical Hacker** by Phillip L. Wylie and Kim Crawley
+- **Kali Linux Revealed: Mastering the Penetration Testing Distribution** by Raphael Hertzog, Mati Aharoni, and Jim O'Gorman
+- **Penetration Testing Essentials** by Sean-Philip Oriyano
+- **Basic Security Testing With Kali Linux** by Daniel W Dieterle
+- **Metasploit Penetration Testing Cookbook: Evade antiviruses, bypass firewalls, and exploit complex environments with the most widely used penetration testing framework** by Abhinav Singh, Nipun Jaswal, Monika Agarwal, and Daniel Teixeira
+- **Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder** by Don Murdoch
+- **Blue Team Handbook: SOC, SIEM, and Threat Hunting (V1.02): A Condensed Guide for the Security Operations Team and Threat Hunter** by Don Murdoch
+- **Gray Hat Python: Python Programming for Hackers and Reverse Engineers** by Justin Seitz
+- **Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code** by Michael Ligh, Steven Adair, Blake Hartstein, and Matthew Richard
+- **Inside Cyber Warfare: Mapping the Cyber Underworld** by Jeffrey Carr
+- **Red Team Development and Operations: A practical guide** by Joe Vest and James Tubberville
+- **Operator Handbook: Red Team + OSINT + Blue Team Reference** by Joshua Picolet
+- **Tribe of Hackers Red Team: Tribal Knowledge from the Best in Offensive Cybersecurity** by Marcus J. Carey and Jennifer Jin
+- **OSINT Techniques: Resources for Uncovering Online Information** by Michael Bazzell
+- **Evading EDR: The Definitive Guide to Defeating Endpoint Detection Systems** by Matt Hand
+- **Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation** by James Forshaw
+- **Black Hat GraphQL: Attacking Next Generation APIs** by Nick Aleks, Dolev Farhi, and Opheliar Chan
+- **Black Hat Go: Go Programming For Hackers and Pentesters** by Tom Steele, Chris Patten, and Dan Kottmann
+- **Black Hat Bash: Bash Scripting for Hackers and Pentesters** by Nick Aleks and Dolev Farhi
+- **Breaking into Information Security: Learning the Ropes 101** by Andy Gill
+- **Expanding Your Security Horizons: Learning The Ropes 102** by Andy Gill
+- **LFM: Linux Field Manual** by Tim Bryant
+- **CompTIA A+ Certification All-in-One Exam Guide** by Andrew Hutz, Mike Meyers, and Travis Everett
