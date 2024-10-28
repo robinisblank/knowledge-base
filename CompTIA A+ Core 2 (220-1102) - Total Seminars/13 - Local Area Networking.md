@@ -1,6 +1,6 @@
 # Local Area Networking
 
-## [Introduction to TCP/IP](CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Introduction%20to%20TCP/IP)
+## [Introduction to TCP/IP](/CompTIA%20A+%20Core%201%20(220-1101)%20-%20Total%20Seminars/13%20-%20Local%20Area%20Networking.md#Introduction%20to%20TCP/IP)
 
 ## Network IDs and Subnet Masks
 - Use the Network and Sharing Center to set up network information.
