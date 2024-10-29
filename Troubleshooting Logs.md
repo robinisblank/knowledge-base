@@ -1,2 +1,0 @@
-## [27-10-2024] GPG Key for Git Signing
-- Changing you GitHub username will change your noreply email. And if the author email doesn't matches the email associated with your GitHub account then the commits made using that author email will be flagged as "unverified".
