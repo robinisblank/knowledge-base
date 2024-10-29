@@ -212,7 +212,7 @@
 - Windows Defender Firewall is a host-based software firewall that comes with Windows.
 - Host firewalls protect systems using host features such as file names or process IDs.
 - Windows Defender Firewall has settings for Domain networks, Private networks, and Guest or public networks.
-- Network discovery is a process that helps devices and computers on a network find each other and communicate. It's a great thing to have on your home network, but a terrible thing on a guest or public network.
+- Network discovery is a process that helps devices and computers on a network find each other and communicate. It's a great thing to have on your home/office network, but a terrible thing on a guest or public network.
 - Advanced settings is where you can do monitoring, and where all the rules are.
 - An Exception is when you allow something that was being blocked to pass through.
 - You can create exceptions manually if needed by creating inbound/outbound rules.

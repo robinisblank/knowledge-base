@@ -14,7 +14,7 @@
 - ESS is a wireless network, created by multiple access points, which appears to users as a single, seamless network, such as a network covering a home or office that is too large for reliable coverage by a single access point.
 - An ESS is a group of Basic Service Sets (BSS) that share the same SSID.
 - BSS is the area covered by an Access Point (AP).
-- BSSID is the unique identified for a specific AP within a wireless network.
+- BSSID is the unique identifier for a specific AP within a wireless network.
 - The omnidirectional antenna's radiation pattern looks like a big fuzzy ball.
 - Dipole antennas combine two omnidirectional antennas that point opposite to each other. Its radiation pattern looks like a disc and doesn't propagate signals up and down.
 - The patch antenna's radiation pattern looks like a semi-sphere. It is useful when kept against the wall and propagating signals only in one direction, which excludes the back of the antenna.
@@ -88,11 +88,12 @@
 | Class 3         | 1 mW   | 1 m   |
 
 ## Troubleshooting Wireless Connections
-- Wi-Fi analyzers help diagnose wireless problems.
+- Wi-Fi analyzers (e.g., WiFiman by Ubiquiti) help diagnose wireless problems.
 - If multiple devices can't see a network, the issue may lie with the SSID or wireless network, not the devices.
 - Low RF signal can lead to no, low, slow, or intermittent connectivity. Try getting closer to the SSID. Make sure there are no walls or other interferences in between.
 - **No Connectivity**:
 	- SSID or password might be changed.
+	- If you have a problem with an existing network, it's probably a bad network profile. Delete (forget) the network profile and try to make a new connection.
 	- Check antennas and make sure they are standing straight. Some WAPs can have different antennas for different bands. If a 2.4 GHz antenna is bent, you might get connectivity issues with that particular SSID.
 	- SSID broadcast might be disabled. In this case, you need to manually configure the profile that requires the exact SSID, security protocol, and password.
 - **Limited Connectivity**:
