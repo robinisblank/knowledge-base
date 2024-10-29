@@ -1,8 +1,20 @@
 # The Internet
 
 ## Telnet and SSH
+- The Telnet and Secure Shell (SSH) protocols provide command-line access to remote systems.
+- PuTTY is a free and open-source terminal emulator application that allows users to connect to remote systems. It supports several network protocols, including Telnet and SSH.
+- Telnet runs on TCP port 23; SSH runs on TCP port 22.
+- Telnet is unencrypted; SSH is encrypted.
 
 ## Remote Desktop Connections
+- Remote Desktop Protocol (RDP) is a proprietary Windows protocol that enables remote access to and control of a computer over a network. It uses port 3389.
+- Remote Assistance is designed for support scenarios. It allows someone (e.g., a tech support person) to view or control another user's computer with the user's permission. Both parties are actively involved in the session, making it ideal for troubleshooting and guidance. It’s available on all editions of Windows.
+- Remote Desktop is for remote work access. It lets one user fully control another machine remotely, logging into it as if they were physically at that computer. It’s a solo session without the other user's input, suitable for remote work or accessing files/programs on a primary machine from another location. Only Pro editions and above can host Remote Desktop sessions.
+- You'll find Remote Assistance and Remote Desktop settings under the Remote tab in System Properties.
+- Remote Desktop Connections is the program in Windows that allows users to connect to a computer remotely and control it as if they were sitting in front of it.
+- The Remote Desktop Protocol (RDP) client is available on all Windows editions, allowing any Windows device to initiate a remote session. However, only the Pro, Enterprise, and Education editions include the Remote Desktop host, which allows other devices to connect to them. This has been the case since at least Windows 7, where the Home editions could initiate connections but not accept incoming RDP connections.
+- Virtual Network Computing (VNC) is a cross-platform screen-sharing system created to remotely control another computer.
+- TightVNC is a free and open-source remote desktop software based on the VNC protocol.
 
 ## The World Wide Web
 
