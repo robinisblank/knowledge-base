@@ -70,7 +70,7 @@
 - IoT requires a hub to link to the IoT devices.
 - Google Home, Amazon Alexa, and Apple Siri add voice capabilities to IoT.
 
-## Troubleshooting Internet Connections, Part 1
+## Troubleshooting Internet Connections
 - Check your physical system first (link lights, cabling, ports, etc.). Verify that you have actual connectivity before blaming anything else.
 - Know your network! Know your network ID, router, and DNS server.
 - Run the `ipconfig /all` command in Windows to get important network information.

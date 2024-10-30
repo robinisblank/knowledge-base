@@ -18,7 +18,7 @@
 - The obsolete Wired Equivalent Privacy (WEP) encryption can be easily cracked today and is never used. It used an ancient encryption known as RC-4, which was predictable and people were able to hack it mechanically.
 - Wi-Fi Protected Access (WPA) introduced Temporal Key Integrity Protocol (TKIP) encryption, Personal/Pre-Shared Key (PSK), and Remote Authentication Dial-In User Service (RADIUS) authentication.
 - WPA2 added Advanced Encryption Standard (AES) encryption.
-- WPA uses TKIP and WPA2 uses AES.
+- WPA uses TKIP; WPA2 uses AES.
 - Today, most probably you are going to use WPA2 and PSK in a SOHO environment.
 - Wi-Fi Protected Setup (WPS) automates setting up encryption but can be easily cracked. Just press the WPS button on the router, then on the WPS-capable device, and they will automatically configure themselves.
 
