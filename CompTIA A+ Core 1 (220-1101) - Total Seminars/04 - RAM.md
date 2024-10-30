@@ -33,12 +33,13 @@
 - You can select a specific slot to view information about RAM in it under SPD. If the slot is empty, then it will display no information. This way you can check for empty RAM slots without having to look in the PC.
 
 ## Virtual Memory
-- To avoid out of memory errors, we can make a portion of the mass storage act like a RAM, and this is known as virtual memory/RAM.
+- To avoid out-of-memory errors, the OS can use a portion of mass storage to simulate additional RAM, known as virtual memory.
 - Every OS has the feature of virtual memory and options to modify its size and usage.
 - We don't want to use the virtual memory. We need to have enough RAM in our system, and virtual memory will keep us running till then.
-- Paging file is the chunk of the hard drive that think it is RAM.
-- In Windows, run `dir /ah` command in the root directory of the drive to view the `swapfile.sys`. This swapfile is the virtual memory.
-- Linux uses swap partitions as virtual memory when needed.
+- The paging file is a designated area on the hard drive that acts as virtual memory.
+- In Windows, the `pagefile.sys` in `C:\` is the paging file. Run `dir /ah` to view this file.
+- In Windows, the `swapfile.sys` in `C:\` is used to manage memory for Windows Store apps (modern apps) and some system processes, complementing the paging file. Run `dir /ah` to view this file.
+- Linux uses swap partitions or swap files as virtual memory when needed.
 - It's obvious when virtual memory is in use, our computer gets very slow because now it is not writing into the RAM but into the mass storage which is much slower.
 
 ## Installing and Troubleshooting RAM
