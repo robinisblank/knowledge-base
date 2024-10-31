@@ -37,7 +37,7 @@
 - IMAP encrypted port: 993
 - POP3 encrypted port: 995
 - Multipurpose Internet Mail Extensions (MIME) is a standard that extends the formats that e-mail can support (e.g., attachments and rich content). Before MIME, e-mail could only handle plain text with basic ASCII characters. MIME added a layer of encoding, making modern e-mail services possible.
-- Secure/Multipurpose Internet Mail Extensions (S/MIME) is an extension of MIME that adds security features like encryption and digital signatures.
+- Secure/MIME (S/MIME) is an extension of MIME that adds security features like encryption and digital signatures.
 - Mobile account setup (e.g., Google, Yahoo, iCloud, Microsoft 365, etc.) only requires you to type in your e-mail and password.
 
 ## Mobile Synchronization
@@ -47,7 +47,7 @@
 - We synchronize our devices to a desktop, automobile, or cloud.
 - Android devices sync with Google Drive; iOS devices sync with iCloud.
 - iOS devices can sync using USB or W-Fi only.
-- We can sync bookmarks, browser history, location data, eBooks, Social media data, applications, and more.
+- We can sync bookmarks, browser history, location data, eBooks, social media data, applications, and more.
 
 ## Mobile Device Security
 - Screen locks prevent others from accessing your phone. It includes options like facial recognition, PIN codes, fingerprints, patterns, or swipes.
@@ -71,7 +71,7 @@
 - Leaked personal files/data, unauthorized account access, unauthorized location tracking, and unauthorized camera/microphone activation are not symptoms but results of a hack.
 - Run anti-malware tools.
 - Change your passwords everywhere if you think you've been hacked.
-- Do a factory reset on that device and re-install from scratch.
+- Do a factory reset on that device and reinstall from scratch.
 
 ## Mobile Device Troubleshooting
 - **Inaccurate/Non-Responsive Touchscreen/Digitizer**:
@@ -108,7 +108,7 @@
 	- You are running too many apps.
 - **Extremely Short Battery Life**:
 	- Anything running in real-time in the background (e.g., GPS and syncing) will burn CPU cycles and drop your battery considerably.
-	- Use tools that list battery-consuming apps remove them.
+	- Use tools that list battery-consuming apps and remove them.
 - **Overheating**:
 	- Every smartphone has thermal material to prevent overheating.
 	- Lack of ventilation, overcharging, and overusing apps can cause overheating.

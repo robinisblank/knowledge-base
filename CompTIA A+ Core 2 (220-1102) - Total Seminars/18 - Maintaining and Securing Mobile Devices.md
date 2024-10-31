@@ -39,7 +39,7 @@
 - IMAP encrypted port: 993
 - POP3 encrypted port: 995
 - Multipurpose Internet Mail Extensions (MIME) is a standard that extends the formats that e-mail can support (e.g., attachments and rich content). Before MIME, e-mail could only handle plain text with basic ASCII characters. MIME added a layer of encoding, making modern e-mail services possible.
-- Secure/Multipurpose Internet Mail Extensions (S/MIME) is an extension of MIME that adds security features like encryption and digital signatures.
+- Secure/MIME (S/MIME) is an extension of MIME that adds security features like encryption and digital signatures.
 - Mobile account setup (e.g., Google, Yahoo, iCloud, Microsoft 365, etc.) only requires you to type in your e-mail and password.
 
 ## Mobile Device Security
@@ -92,7 +92,7 @@
 	- You are running too many apps.
 - **Extremely Short Battery Life**:
 	- Anything running in real-time in the background (e.g., GPS and syncing) will burn CPU cycles and drop your battery considerably.
-	- Use tools that list battery-consuming apps remove them.
+	- Use tools that list battery-consuming apps and remove them.
 - **Overheating**:
 	- Every smartphone has thermal material to prevent overheating.
 	- Lack of ventilation, overcharging, and overusing apps can cause overheating.

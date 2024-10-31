@@ -99,7 +99,7 @@
 	- Make sure the printer exists and is turned on.
 - **No Connectivity**:
 	- Most of the time, this is a network issue.
-	- Whenever you face a printer problem, go through a mental re-install.
+	- Whenever you face a printer problem, go through a mental reinstall.
 	- Check physical cables, print server, device drivers, and configurations.
 	- Rollback device drivers if required.
 - **Access Denied**:
