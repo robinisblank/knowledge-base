@@ -2,6 +2,7 @@
 
 ## Threats
 - The term "security" encompasses host-based, network-based, and physical security.
+- Physical security > Network-based security > Host-based security.
 - In a Man-In-The-Middle (MITM)/On-Path attack, an attacker secretly intercepts and potentially alters the communication between two parties, making them believe they are directly connected.
 - To defend against MITM attacks, we encrypt communications.
 - Spoofing is faking the identity of another user, device, or network (e.g., IP or email spoofing) to trick the target into trusting the attacker’s message or connection.
@@ -20,9 +21,19 @@
 - Endpoint management is the process of centrally monitoring, securing, and managing devices that connect to an organization’s network. It involves device configuration, software updates, security enforcement, access control, etc.
 - Unified Threat Management (UTM) is a network security approach that combines multiple security functions such as IDS/IPS, firewall, anti-malware, VPN, and content filtering into a single device or software installation.
 - UTM simplifies security management, especially in small to medium-sized organizations. It is commonly available as both on-premises devices and cloud-based solutions.
-- A LAN tap, or network tap, is a device that allows you to monitor and access data that is transmitted over a network. [Throwing Star LAN Tap Pro](https://greatscottgadgets.com/throwingstar/)
+- A LAN Tap, or network tap, is a device that allows you to monitor and access data that is transmitted over a network. [Throwing Star LAN Tap Pro](https://greatscottgadgets.com/throwingstar/)
 
 ## Physical Security
+- Physical security includes perimeter, room, and individual device security.
+- Perimeter security > Room security > Individual device security.
+- Perimeter security includes security guards, mantraps, and locking doors.
+- A Mantrap (Access Control Vestibule) is a physical security system that prevents unauthorized people from entering a facility.
+- Room security includes door locks, badge readers with RFID chips embedded in badges, smart cards, and biometrics.
+- The Entry Control Roster is automatically updated when someone uses a badge or smart card. Using signatures and paper is becoming less common.
+- Individual device security includes cable locks, server locks, USB locks, privacy screens, and HSM.
+- A Hardware Security Module (HSM) is a tamper-resistant device that stores and manages cryptographic keys to protect them and ensure they are only accessible to authorized users.
+- A Hardware Token is a type of HSM that can be inserted into a USB port.
+- Key Fobs are used in physical security, commonly to get into parking lots/garages.
 
 ## Passwords and Authentication
 
