@@ -3,7 +3,7 @@
 ## Power Protection
 - Electricity from the power company can be imperfect. You don't always get that perfect sine wave.
 - Sag/brownout refers to intentional or unintentional short-term voltage dip.
-- Spike/surge refers to more voltage than what you're expecting.
+- Spike/surge refers to more voltage than what you are expecting.
 - Sags can reboot our computer, and spikes can destroy our systems.
 - Surge protector/suppressor protects against spikes.
 - Surge suppressors are also available for Ethernet cables, landlines, and USBs.

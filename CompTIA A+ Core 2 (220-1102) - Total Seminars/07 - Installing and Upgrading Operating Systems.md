@@ -1,7 +1,7 @@
 # Installing and Upgrading Operating Systems
 
 ## Windows 10 Editions and Features
-- Run the `winver` command to see the Windows edition and version you're running.
+- Run the `winver` command to see the Windows edition and version you are running.
 - Domain is a network of computers managed by a central server (Domain Controller) for centralized administration and security.
 - Remote Desktop Protocol (RDP) is a proprietary Windows protocol that enables remote access to and control of a computer over a network. It uses port 3389.
 - Group Policy (gpedit.msc) is a Windows feature that allows administrators to configure and manage user and computer settings across a domain.

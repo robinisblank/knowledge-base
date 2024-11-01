@@ -31,7 +31,7 @@
 - Linux doesn't use drive letters; instead, everything is mounted as folders under the root directory (`/`).
 - Tab auto-fills available commands.
 - `cd ~` in Linux will move you to the home directory.
-- `pwd` in Linux will show you in what directory you're in.
+- `pwd` in Linux will show you in what directory you are in.
 - For navigation paths: Windows uses the backslash (`\`), and Linux uses the forward slash (`/`).
 
 ## Working with Folders
@@ -56,7 +56,7 @@
 - The `format` command in Windows formats a disk for use with Windows.
 - The `/FS:filesystem` switch with the `format` command specifies the type of the file system (FAT, FAT32, exFAT, NTFS, UDF, ReFS). For example: `format e: /FS:NTFS`.
 - The `/Q` switch with the `format` command performs a quick format. For example: `format e: /FS:NTFS /Q`.
-- The `chkdsk` command in Windows checks a disk and displays a status report. If you don't mention any drive letter, then it will check the drive you're in.
+- The `chkdsk` command in Windows checks a disk and displays a status report. If you don't mention any drive letter, then it will check the drive you are in.
 - The `/F` switch with the `chkdsk` command fixes errors on the disk. For example: `chkdsk d: /F`.
 - System File Checker (SFC) scans the integrity of all protected system files and replaces incorrect versions with correct Microsoft versions.
 - The `sfc /SCANNOW` command scans the integrity of all protected system files and repairs files with problems when possible.

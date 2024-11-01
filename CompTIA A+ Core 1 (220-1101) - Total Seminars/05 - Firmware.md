@@ -2,7 +2,7 @@
 
 ## What is BIOS?
 - BIOS stands for Basic Input/Output System.
-- Motherboard is an assumption that you're going to use certain types of hardware. This is why it has all sorts of ports available.
+- Motherboard is an assumption that you are going to use certain types of hardware. This is why it has all sorts of ports available.
 - BIOS is a firmware embedded in a motherboard that talks to the computer's hardware.
 - BIOS programming enables interaction with motherboard and its connected hardware before OS loads.
 - BIOS is stored in non-volatile media, thus called firmware.

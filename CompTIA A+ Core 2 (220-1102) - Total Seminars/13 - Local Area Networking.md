@@ -50,7 +50,7 @@
 ## Network Address Translation (NAT)
 - A gateway connects networks, while a router delivers data within a network.
 - Historically, gateways and routers have been separate devices. However, it's becoming more common for their functions to be combined and simply called a router.
-- Without NAT, all computers within a LAN will have easy-to-find public IP addresses. If somebody bypasses the firewall, any computer will be publicly visible. Another issue is that you're eating a lot of public IP addresses.
+- Without NAT, all computers within a LAN will have easy-to-find public IP addresses. If somebody bypasses the firewall, any computer will be publicly visible. Another issue is that you are eating a lot of public IP addresses.
 - With NAT, a router will still have a public IP address, but the computers within a LAN will use private IP addresses.
 - NAT saves public IP addresses as devices on different local networks can have the same private IP address.
 - If a computer within an internal network wants to communicate with a computer in an external network, the packet will go through the router, and NAT will replace the computer's private IP with its public IP before sending the packet, and vice versa when receiving a packet.
@@ -74,7 +74,7 @@
 - The `/release` switch with the `ipconfig` command releases the IPv4 address for the specified adapter.
 - The `/renew` switch with the `ipconfig` command renews the IPv4 address for the specified adapter.
 - Built-in troubleshooter will disable and enable the network card, release and renew, and it will make some queries to the Internet to make sure you have Internet connectivity.
-- Under the Alternate Configuration tab in the "Internet Protocol Version 4 (TCP/IPv4)" properties, you can also put static IP information that you want instead of APIPA when you can't find a DHCP server after checking the "User configured" option. You should be careful and know why you're doing this.
+- Under the Alternate Configuration tab in the "Internet Protocol Version 4 (TCP/IPv4)" properties, you can also put static IP information that you want instead of APIPA when you can't find a DHCP server after checking the "User configured" option. You should be careful and know why you are doing this.
 
 ## Working with Connections
 - In Windows, the `netstat` command displays protocol statistics and current TCP/IP network connections.
@@ -224,7 +224,7 @@
 - We often use nonstandard port numbers for security reasons.
 - Dynamic DNS (DDNS) allows you to map a dynamic IP address to a consistent hostname, allowing your router to be more easily accessed from different locations on the Internet.
 - We can use DDNS to give DNS names to port forwarded devices.
-- The only time you're going to use DDNS is when you have a NAT-enabled router, which is very common these days, and when you're doing port forwarding that motivates you to know your WAN IP address.
+- The only time you are going to use DDNS is when you have a NAT-enabled router, which is very common these days, and when you are doing port forwarding that motivates you to know your WAN IP address.
 
 ## Advanced Router Configuration
 - Quality of Service (QoS) is a network feature that manages and prioritizes bandwidth allocation based on specific criteria, such as IP address, MAC address, port number, or application type to improve the network performance.

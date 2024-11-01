@@ -37,7 +37,7 @@
 - The `/release` switch with the `ipconfig` command releases the IPv4 address for the specified adapter.
 - The `/renew` switch with the `ipconfig` command renews the IPv4 address for the specified adapter.
 - Built-in troubleshooter will disable and enable the network card, release and renew, and it will make some queries to the Internet to make sure you have Internet connectivity.
-- Under the Alternate Configuration tab in the "Internet Protocol Version 4 (TCP/IPv4)" properties, you can also put static IP information that you want instead of APIPA when you can't find a DHCP server after checking the "User configured" option. You should be careful and know why you're doing this.
+- Under the Alternate Configuration tab in the "Internet Protocol Version 4 (TCP/IPv4)" properties, you can also put static IP information that you want instead of APIPA when you can't find a DHCP server after checking the "User configured" option. You should be careful and know why you are doing this.
 
 ## IPv6
 - `172.16.254.1` is an example of an IPv4 (Internet Protocol version 4) address. We can have about 4.3 billion addresses with IPv4. We thought it would be sufficient. But we were wrong and we ran out of them.

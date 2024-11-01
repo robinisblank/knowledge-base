@@ -33,7 +33,7 @@
 	- **Write**: Enables you to open and write to the file.
 - Inheritance is when a subfolder or file gets the permissions of the folder in which it was created.
 - Deny enables explicit permissions to stop inheritance.
-- NTFS permissions are tied to user accounts and security principals (like users or groups). They are enforced at the filesystem level and don't directly care whether you're logged in locally, remotely, or virtually. They are applied based on the SID (Security Identifier) of the user or group accessing the file or folder.
+- NTFS permissions are tied to user accounts and security principals (like users or groups). They are enforced at the filesystem level and don't directly care whether you are logged in locally, remotely, or virtually. They are applied based on the SID (Security Identifier) of the user or group accessing the file or folder.
 
 ## Linux and macOS Permissions
 - Linux and macOS permissions use the owner, group, and others.

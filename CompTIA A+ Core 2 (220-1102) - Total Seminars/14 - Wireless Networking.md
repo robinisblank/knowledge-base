@@ -11,7 +11,7 @@
 - To speed things up, you can select a mode that contains only the Wi-Fi standards that devices on that network use.
 - You can change the channel width.
 - You can adjust the transmit/radio power.
-- Make sure the wireless radio is enabled after you're done changing its settings.
+- Make sure the wireless radio is enabled after you are done changing its settings.
 
 ## Wireless Encryption
 - A wired network can only be intercepted with a physical connection, but everything on an unencrypted (open) wireless network can easily be intercepted by anyone with the right capture tools.

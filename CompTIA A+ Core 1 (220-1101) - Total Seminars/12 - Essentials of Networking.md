@@ -40,7 +40,7 @@
 - Ethernet is the predominant networking technology that defines frames, how network cards work, speed, and the type of cables and connectors we use.
 - DOCSIS (used for cable modems) is an alternate technology that uses different cables and connectors.
 - 10BaseT (10 Mbps baseband twister pair), 1000BaseT, and 10GBaseT are some ethernet standards.
-- Coaxial cables have RG ratings (e.g. RG-58, RG-59, RG-6). 
+- Coaxial cables have RG ratings (e.g., RG-58, RG-59, RG-6). 
 - RG-59 and RG-6 use F-type connectors, and RG-58 use BNC connectors.
 - Twister Pair cables come shielded or unshielded.
 - Unshielded Twisted Pair (UTP) uses RJ-11 (for telephone cords) and RJ-45 (for Ethernet cables). It has a maximum distance of 100m. It has four pairs of wires.

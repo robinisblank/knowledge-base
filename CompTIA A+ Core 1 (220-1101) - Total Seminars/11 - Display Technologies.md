@@ -9,7 +9,7 @@
 - Panels generally run from 200-500 nits.
 - Response time is the time it takes one pixel to go from all black to white and back to black again. Panels need to have a good response time so that we humans can detect motion on screen.
 - Panel response times run from about 1ms - 4ms.
-- When someone says that they are selling an LED monitor, they're selling an LCD monitor with LEDs as backlight.
+- When someone says that they are selling an LED monitor, they are selling an LCD monitor with LEDs as backlight.
 - Organic LED (OLED) doesn't use a backlight, as the pixels make their own light.
 - You can have thinner screens with OLED.
 - Digital Light Processing (DLP) uses a grid of tiny mirrors that shine through a color wheel to create an image.
